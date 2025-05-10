@@ -1,8 +1,8 @@
+// FOR CLIENT/External USE ONLY (don't import internally in engine project)
 #pragma once
 
-// FOR CLIENT/External USE ONLY (don't import internally in engine project)
-
 #include "Engine/Application.h"
+#include "Engine/Log.h"
 
 // ----------Entry Point--------------
 #include "Engine/EntryPoint.h"

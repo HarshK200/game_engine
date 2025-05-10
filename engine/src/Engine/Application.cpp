@@ -1,7 +1,6 @@
 #include "Application.h"
 
 #include <iostream>
-#include <ostream>
 
 namespace Engine {
     Application::Application() {
@@ -11,8 +10,6 @@ namespace Engine {
     }
 
     void Application::Run() {
-        while (true) {
-            std::cout << std::endl << "Running..." << std::endl;
-        }
+        while (true);
     }
 }
